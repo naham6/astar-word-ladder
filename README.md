@@ -1,5 +1,10 @@
 # Word Ladder A* Search 
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-005C94.svg?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 An interactive, visual simulation that solves the classic Word Ladder problem. This project utilizes the A* Search algorithm to find the shortest transformation sequence between two words, drawing the graph network of the search space at each step.
 
 ## Core Concepts
